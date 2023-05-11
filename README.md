@@ -6,6 +6,9 @@ Workshop VueJS
 Se utilizó Bootstrap y se importó en el archivo main.js
 Versión de Vue: 3
 
+Disculpas por la demora en la entrega
+Esto se debió a ciertos imprevistos en el código que tuvieron que ser corregidos
+
 Muchas gracias
 
 //Fin de la nota
